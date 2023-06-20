@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-school-management/static/css/main.23adf0c2.css",
+    "main.js": "/react-school-management/static/js/main.f69876ed.js",
+    "static/js/787.8f971231.chunk.js": "/react-school-management/static/js/787.8f971231.chunk.js",
+    "static/media/fa-solid-900.ttf": "/react-school-management/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/react-school-management/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/react-school-management/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/react-school-management/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/Student.png": "/react-school-management/static/media/Student.e9fb5dfb58b088edc9a5.png",
+    "static/media/fa-regular-400.ttf": "/react-school-management/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/react-school-management/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/manage_expenses.png": "/react-school-management/static/media/manage_expenses.f3c9ea71b26840f1436c.png",
+    "static/media/fee_alocation.png": "/react-school-management/static/media/fee_alocation.fc27ccc2dee9ef71a848.png",
+    "static/media/logo.svg": "/react-school-management/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/react-school-management/index.html",
+    "main.23adf0c2.css.map": "/react-school-management/static/css/main.23adf0c2.css.map",
+    "main.f69876ed.js.map": "/react-school-management/static/js/main.f69876ed.js.map",
+    "787.8f971231.chunk.js.map": "/react-school-management/static/js/787.8f971231.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23adf0c2.css",
+    "static/js/main.f69876ed.js"
+  ]
+}
