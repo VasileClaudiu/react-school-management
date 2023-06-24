@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-school-management/static/css/main.d511fc8a.css",
-    "main.js": "/react-school-management/static/js/main.26ec286b.js",
+    "main.js": "/react-school-management/static/js/main.11a60e02.js",
     "static/js/787.8f971231.chunk.js": "/react-school-management/static/js/787.8f971231.chunk.js",
     "static/media/fa-solid-900.ttf": "/react-school-management/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/portfolio-3.jpg": "/react-school-management/static/media/portfolio-3.5d7d7e62e450e3a630e1.jpg",
@@ -35,11 +35,11 @@
     "index.html": "/react-school-management/index.html",
     "static/media/logo.svg": "/react-school-management/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
     "main.d511fc8a.css.map": "/react-school-management/static/css/main.d511fc8a.css.map",
-    "main.26ec286b.js.map": "/react-school-management/static/js/main.26ec286b.js.map",
+    "main.11a60e02.js.map": "/react-school-management/static/js/main.11a60e02.js.map",
     "787.8f971231.chunk.js.map": "/react-school-management/static/js/787.8f971231.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d511fc8a.css",
-    "static/js/main.26ec286b.js"
+    "static/js/main.11a60e02.js"
   ]
 }
