@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-school-management/static/css/main.bdf343f8.css",
-    "main.js": "/react-school-management/static/js/main.ea1709c4.js",
+    "main.css": "/react-school-management/static/css/main.c7a39cfc.css",
+    "main.js": "/react-school-management/static/js/main.7ad5d225.js",
     "static/js/787.8f971231.chunk.js": "/react-school-management/static/js/787.8f971231.chunk.js",
     "static/media/fa-solid-900.ttf": "/react-school-management/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/portfolio-3.jpg": "/react-school-management/static/media/portfolio-3.5d7d7e62e450e3a630e1.jpg",
@@ -34,12 +34,12 @@
     "static/media/fee_alocation.png": "/react-school-management/static/media/fee_alocation.fc27ccc2dee9ef71a848.png",
     "index.html": "/react-school-management/index.html",
     "static/media/logo.svg": "/react-school-management/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
-    "main.bdf343f8.css.map": "/react-school-management/static/css/main.bdf343f8.css.map",
-    "main.ea1709c4.js.map": "/react-school-management/static/js/main.ea1709c4.js.map",
+    "main.c7a39cfc.css.map": "/react-school-management/static/css/main.c7a39cfc.css.map",
+    "main.7ad5d225.js.map": "/react-school-management/static/js/main.7ad5d225.js.map",
     "787.8f971231.chunk.js.map": "/react-school-management/static/js/787.8f971231.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdf343f8.css",
-    "static/js/main.ea1709c4.js"
+    "static/css/main.c7a39cfc.css",
+    "static/js/main.7ad5d225.js"
   ]
 }
